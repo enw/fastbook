@@ -1,3 +1,7 @@
+# Elliot's fastai book playground
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enw/fastbook/HEAD)
+
+
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md) / [Italian](./README_it.md) / [Portuguese](./README_pt.md) / [Vietnamese](./README_vn.md)
 
 # The fastai book
